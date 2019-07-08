@@ -1,0 +1,19 @@
+{
+  "name": "FirstProject",
+  "version": "1.0.0",
+  "description": "-- Install Typescript $ npm i typescript -g -- Setup $ tsc --init -- Compilation $ tsc -- Compilation with Watch $ tsc -w",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tslint": "^5.18.0",
+    "typescript": "^3.5.2"
+  },
+  "dependencies": {
+    "tslint-config-airbnb": "^5.11.1"
+  }
+}
